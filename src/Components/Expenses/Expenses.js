@@ -1,6 +1,6 @@
 import React from "react";
 import Expense_Item from "./Expense_Item";
-import Card from "./Card";
+import Card from "../Card";
 function Expenses(props) {
   return (
     <Card className="expenses">
